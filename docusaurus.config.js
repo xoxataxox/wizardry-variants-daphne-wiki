@@ -12,7 +12,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '辟邪除妖攻略',
+  title: '辟邪除妖VA WIKI',
   tagline: '測試看看',
   favicon: 'img/Wizardry_Variants_Daphne_icon.png',
 
@@ -41,8 +41,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    defaultLocale: 'zh-Hant',
+    locales: ['zh-Hant'],
   },
 
   presets: [
@@ -69,7 +69,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: '辟邪除妖攻略站',
+        title: '辟邪除妖VA攻略WIKI',
         logo: {
           alt: 'My Site Logo',
           src: 'img/Wizardry_Variants_Daphne_cover.png',
