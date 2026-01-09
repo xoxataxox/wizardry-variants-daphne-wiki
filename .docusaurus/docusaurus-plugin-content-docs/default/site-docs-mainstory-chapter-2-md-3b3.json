@@ -1,0 +1,23 @@
+{
+  "id": "mainstory/chapter2",
+  "title": "第二章攻略",
+  "description": "推薦隊伍",
+  "source": "@site/docs/mainstory/chapter2.md",
+  "sourceDirName": "mainstory",
+  "slug": "/mainstory/chapter2",
+  "permalink": "/wizardry-variants-daphne-wiki/docs/mainstory/chapter2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "第一章攻略",
+    "permalink": "/wizardry-variants-daphne-wiki/docs/mainstory/chapter1"
+  },
+  "next": {
+    "title": "武器",
+    "permalink": "/wizardry-variants-daphne-wiki/docs/equipment/weapons"
+  }
+}

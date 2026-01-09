@@ -1,0 +1,77 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/wizardry-variants-daphne-wiki/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/wizardry-variants-daphne-wiki/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "changelog",
+              "path": "/wizardry-variants-daphne-wiki/docs/changelog"
+            },
+            {
+              "id": "equipment/armor",
+              "path": "/wizardry-variants-daphne-wiki/docs/equipment/armor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "equipment/upgrade",
+              "path": "/wizardry-variants-daphne-wiki/docs/equipment/upgrade",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "equipment/weapons",
+              "path": "/wizardry-variants-daphne-wiki/docs/equipment/weapons",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/wizardry-variants-daphne-wiki/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mainstory/chapter1",
+              "path": "/wizardry-variants-daphne-wiki/docs/mainstory/chapter1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mainstory/chapter2",
+              "path": "/wizardry-variants-daphne-wiki/docs/mainstory/chapter2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "newbie",
+              "path": "/wizardry-variants-daphne-wiki/docs/newbie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "system/restraint",
+              "path": "/wizardry-variants-daphne-wiki/docs/system/restraint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "system/sameification",
+              "path": "/wizardry-variants-daphne-wiki/docs/system/sameification",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/wizardry-variants-daphne-wiki/docs/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

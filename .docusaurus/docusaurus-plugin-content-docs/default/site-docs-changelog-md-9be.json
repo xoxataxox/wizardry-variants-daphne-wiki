@@ -1,0 +1,14 @@
+{
+  "id": "changelog",
+  "title": "更新日誌",
+  "description": "最新更新",
+  "source": "@site/docs/changelog.md",
+  "sourceDirName": ".",
+  "slug": "/changelog",
+  "permalink": "/wizardry-variants-daphne-wiki/docs/changelog",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,23 @@
+{
+  "id": "system/restraint",
+  "title": "restraint",
+  "description": "",
+  "source": "@site/docs/system/restraint.md",
+  "sourceDirName": "system",
+  "slug": "/system/restraint",
+  "permalink": "/wizardry-variants-daphne-wiki/docs/system/restraint",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sameification",
+    "permalink": "/wizardry-variants-daphne-wiki/docs/system/sameification"
+  },
+  "next": {
+    "title": "newbie",
+    "permalink": "/wizardry-variants-daphne-wiki/docs/newbie"
+  }
+}

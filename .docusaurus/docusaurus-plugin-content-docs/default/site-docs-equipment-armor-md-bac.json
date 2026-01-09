@@ -1,0 +1,23 @@
+{
+  "id": "equipment/armor",
+  "title": "護甲",
+  "description": "",
+  "source": "@site/docs/equipment/armor.md",
+  "sourceDirName": "equipment",
+  "slug": "/equipment/armor",
+  "permalink": "/wizardry-variants-daphne-wiki/docs/equipment/armor",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "武器",
+    "permalink": "/wizardry-variants-daphne-wiki/docs/equipment/weapons"
+  },
+  "next": {
+    "title": "裝備升級相關",
+    "permalink": "/wizardry-variants-daphne-wiki/docs/equipment/upgrade"
+  }
+}
