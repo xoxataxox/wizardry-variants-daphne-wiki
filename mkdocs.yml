@@ -1,0 +1,17 @@
+site_name: 辟邪除妖 攻略站
+theme:
+  name: 'material'
+
+nav:
+  - 首頁: index.md
+  - 主線攻略:
+      - 第一章: story/chapter1.md
+      - 第二章: story/chapter2.md
+  - 裝備:
+      - 武器: equipment/weapons.md
+      - 防具: equipment/armor.md
+      - 防具: equipment/upgrade.md
+  - 系統:
+      - 同一化: system/sameification.md
+      - 克己: system/restraint.md
+  - 新手指南: newbie.md
