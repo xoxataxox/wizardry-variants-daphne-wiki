@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwizardry_daphne_wiki=globalThis.webpackChunkwizardry_daphne_wiki||[]).push([[647],{7121(e,r,a){a.r(r),a.d(r,{default:()=>c});a(6540);var i=a(4164),s=a(7559),d=a(5500),h=a(2831),n=a(1656),u=a(4848);function c(e){return(0,u.jsx)(d.e3,{className:(0,i.A)(s.G.wrapper.docsPages),children:(0,u.jsx)(n.A,{children:(0,h.v)(e.route.routes)})})}}}]);
