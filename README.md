@@ -1,2 +1,2 @@
-# wizardry variants daphne wikipage
+# wizardry variants daphne wiki
 Just fun
