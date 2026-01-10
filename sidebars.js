@@ -33,6 +33,17 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: '刷刷刷',
+      items: [
+        'farming/exp',
+        'farming/explist',
+        'farming/equipment',
+        'farming/money',
+        'farming/ore',
+      ],
+    },
+    {
+      type: 'category',
       label: '系統',
       items: [
         'system/sameification',
