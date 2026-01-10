@@ -15,10 +15,10 @@ export default function Home() {
         <p>龜速整合中...</p>
         <h2>快速導航</h2>
         <ul>
-          <li><a href="wizardry-variants-daphne-wiki/docs/mainstory/chapter1">主線攻略</a></li>
-          <li><a href="wizardry-variants-daphne-wiki/docs/equipment/weapons">裝備一覽</a></li>
-          <li><a href="wizardry-variants-daphne-wiki/docs/system/sameification">系統指南</a></li>
-          <li><a href="wizardry-variants-daphne-wiki/docs/newbie">新手須知</a></li>
+          <li><a href="docs/mainstory/chapter1">主線攻略</a></li>
+          <li><a href="docs/equipment/weapons">裝備一覽</a></li>
+          <li><a href="docs/system/sameification">系統指南</a></li>
+          <li><a href="docs/newbie">新手須知</a></li>
         </ul>
         <h2>預計製作內容</h2>
         <ul>
@@ -36,7 +36,7 @@ export default function Home() {
         <h2>最近更新</h2>
         <LatestChangelog />
         <div style={{ marginTop: '1rem' }}>
-          <Link to="/docs/changelog">
+          <Link to="docs/changelog">
             查看完整更新日誌 →
           </Link>
         </div>
