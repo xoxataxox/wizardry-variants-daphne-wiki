@@ -19,6 +19,7 @@ const sidebars = {
         'equipment/weapons',
         'equipment/armor',
         'equipment/upgrade',
+        'equipment/alteration',
       ],
     },
     {
