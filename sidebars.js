@@ -20,6 +20,15 @@ const sidebars = {
         'equipment/armor',
         'equipment/upgrade',
         'equipment/alteration',
+        'equipment/tradeoffs',
+      ],
+    },
+    {
+      type: 'category',
+      label: '心器之淵',
+      items: [
+        'mind/GuidingLight',
+        'mind/mindwell',
       ],
     },
     {

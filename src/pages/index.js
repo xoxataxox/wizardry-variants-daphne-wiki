@@ -30,7 +30,7 @@ export default function Home() {
         <h2><a href="/docs/changelog">更新日誌</a></h2>
         <ul>
           <li>2026-01-10: 新增全改、下改石使用方法</li>
-          <li>2026-01-09: 裝備武器表更新</li>
+          <li>2026-01-09: 新增裝備詞條相關</li>
           <li>2026-01-09: 網站剛弄好，東西還沒放</li>
         </ul>
       </main>
