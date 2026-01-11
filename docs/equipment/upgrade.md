@@ -16,6 +16,7 @@ import TabItem from '@theme/TabItem';
 | 鞋子       |      |      |      |      | O    | O    | O    | O    |      | O        |
 | 飾品       | O    | O    | O    | O    | O    | O    | O    | O    | O    | O        |
 
+---
 ## 裝備詞條數值
 
 ### RANK1~5 裝備(銀以下)
@@ -82,6 +83,7 @@ values={[
 
 </Tabs>
 
+---
 ### RANK6 裝備(銀)(雙手武除外)
 
 <Tabs
@@ -145,6 +147,7 @@ values={[
   </TabItem>
 
 </Tabs>
+---
 
 ### RANK6 裝備(銀)(雙手武)
 
@@ -209,6 +212,10 @@ values={[
   </TabItem>
 
 </Tabs>
+
+
+---
+
 
 ## 精煉石、改造石數值
 

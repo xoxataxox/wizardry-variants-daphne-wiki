@@ -11,14 +11,15 @@ export default function Home() {
     <Layout title="辟邪除妖VA WIKI" description="完整攻略主線、裝備、系統指南">
       <main>
         <h1>辟邪除妖VA WIKI</h1>
-        <p>主要會整合所有巴哈和Gamerch上的資訊，方便查閱，不然有的東西真的不好查，當然會附上來源拉</p>
+        <p>這裡會整合所有巴哈和Gamerch上的資訊，方便自己查閱，不然有的東西查過就忘記在哪了。</p>
+        <p>而且日文或簡中搜尋起來不方便</p>
         <p>龜速整合中...</p>
         <h2>快速導航</h2>
         <ul>
           <li><a href="docs/mainstory/chapter1">主線攻略</a></li>
           <li><a href="docs/equipment/weapons">裝備一覽</a></li>
           <li><a href="docs/system/sameification">系統指南</a></li>
-          <li><a href="docs/newbie">新手須知</a></li>
+          <li><a href="docs/newbie">備用</a></li>
         </ul>
         <h2>預計製作內容</h2>
         <ul>

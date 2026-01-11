@@ -39,6 +39,7 @@ const sidebars = {
         'farming/explist',
         'farming/equipment',
         'farming/money',
+        'farming/monster',
         'farming/ore',
       ],
     },
@@ -48,6 +49,8 @@ const sidebars = {
       items: [
         'system/sameification',
         'system/restraint',
+        'system/relicbrew',
+        'system/bondmates',
       ],
     },
     'newbie',
