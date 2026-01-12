@@ -16,6 +16,16 @@ const config = {
   tagline: '測試看看',
   favicon: 'img/Wizardry_Variants_Daphne_icon.png',
 
+    plugins: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+        language: ["zh", "en"],
+      },
+    ],
+  ],
+
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -59,12 +69,13 @@ const config = {
       }),
     ],
   ],
+  
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      //image: 'img/docusaurus-social-card.jpg',
       colorMode: {
         respectPrefersColorScheme: true,
       },
@@ -82,6 +93,7 @@ const config = {
             label: '攻略',
           },
           { to: '/docs/changelog', label: '更新日誌', position: 'left' },
+          { type: 'search', position: 'right' },
           {
             href: 'https://github.com/xoxataxox/wizardry-variants-daphne-wiki',
             label: 'GitHub',
