@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwizardry_daphne_wiki=globalThis.webpackChunkwizardry_daphne_wiki||[]).push([[921],{1597(a){a.exports=JSON.parse('{"name":"@easyops-cn/docusaurus-search-local","id":"default"}')}}]);
