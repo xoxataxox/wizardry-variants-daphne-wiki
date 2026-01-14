@@ -1,4 +1,5 @@
 # 刷裝相關
+## 主線地下城(施工中...)
 
 ## 支線地下城
 ### 弗德萊戈的迷宮
@@ -153,7 +154,7 @@
 材質：鋼/冥鋼/銀  
 武器：短劍/雙手槍/弓  
 裝備：皮質帽子/皮質衣服/皮質手套/皮質鞋子  
-特產：魔獸特效防具(狩獵手套/狩獵長靴)
+特產：魔獸特效防具(狩獵手套/狩獵長靴)  
 等級品質：鋼5星紅/冥鋼4星紫/銀4星紫
 :::
 
@@ -182,5 +183,6 @@
 
 
 ## Source
-[【ウィズダフネ】ガラクタ集めのやり方とおすすめ場所【ウィザードリィダフネ】](https://gamerch.com/wizardry-daphne/882190)
-[WizDaph Junk Tracker v69.420](https://docs.google.com/spreadsheets/d/1XzlwOeuDjlFJ86zUrFtE2sO6J5AIdis0PM-nC7O0MQw/edit?gid=1608165252#gid=1608165252)
+[【ウィズダフネ】ガラクタ集めのやり方とおすすめ場所【ウィザードリィダフネ】](https://gamerch.com/wizardry-daphne/882190)  
+[WizDaph Junk Tracker v69.420](https://docs.google.com/spreadsheets/d/1XzlwOeuDjlFJ86zUrFtE2sO6J5AIdis0PM-nC7O0MQw/edit?gid=1608165252#gid=1608165252)  
+[ガラクタ別 提供割合](https://wizardry.info/daphne/gacha_rates/ja/equipments.html)
